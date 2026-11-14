@@ -1,0 +1,22 @@
+# Compiled Java class files
+*.class
+
+# Output directories
+out/
+bin/
+target/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# OS generated files
+.DS_Store
+Thumbs.db
